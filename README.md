@@ -11,7 +11,7 @@
 <div>
 <br>
 <p align="center">
-	<a href="https://www.linkedin.com/in/woody-tai/"> <img  alt="Woody's Linkedin" width="28vw" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+	<a href="https://www.linkedin.com/in/woody-tai/"> <img  alt="Woody's Linkedin" width="28vw" background-color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
 	<a href="https://medium.com/@woody.tai"> <img  alt="Woody's Medium" width="28vw" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" /></a>
 	<a href="https://github.com/Woodytai">
 	  <img  alt="Woody's Github" width="28vw" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
