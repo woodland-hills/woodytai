@@ -3,6 +3,7 @@
 <div align="center";">
 	<i><b><h3>Let's connect!</h3></b></i>
 	<a style="font-size: 2.5vh; color: black; text-decoration: none;" href="https://woodytai.github.io"><i>woodytai.github.io</i></a>
+	<a style="font-size: 2.5vh; color: black; text-decoration: none;" href="https://https://www.linkedin.com/in/woody-tai/"><i>linkedin</i></a>
 </div>
 <div>
 	<h2>About Me: </h2> <p style="font-size: 2.5vh; text-indent: 2vw; margin-left: 1vw">Hi! I’m currently a high school sophomore, originally from Hong Kong. Currently, I concentrate in Chemistry, Biology, and Computer Science with a secondary in Statistics and Mathematics. I’ve been active in bridging the gap between biomedical sciences and technology. <u>Feel free to reach out if you have any questions or just want to chat!</u>.</p>
